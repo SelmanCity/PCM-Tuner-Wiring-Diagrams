@@ -17,4 +17,4 @@ Site officel de PCM Tuner : https://tuner-box.com/
 
 # Téléchargement
 
-[Télécharger l'assistant de configuration pour la version v1.0.0](https://github.com/SelmanCity/PCM-Tuner-Wiring-Diagrams/releases/download/first/pcm-tuner-wiring-diagrams-setup.msi)
+[Télécharger l'assistant de configuration pour la version v1.0.1](https://github.com/SelmanCity/PCM-Tuner-Wiring-Diagrams/releases/download/first/pcm-tuner-wiring-diagrams-setup.msi)
