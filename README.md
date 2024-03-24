@@ -9,7 +9,7 @@ Instruction de branchement pour le PCM Tuner.
 
 Site officel de PCM Tuner : https://tuner-box.com/
 
-# Version 1.0.0
+# Version 1.0.1
 **Modules**
 - PCMtuner module 58 <> Temic DSG/CVT
 - PCMtuner module 68 <> Kia/Hyundai CPGDSH/CPEGD
